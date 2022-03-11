@@ -1,0 +1,39 @@
+.blog_page{
+  font-family: 'Fredoka', sans-serif;
+  color: #FF1818;
+  font-size: 100px;
+  margin-top: 0;
+  padding-right: 20px;
+  font-weight: bolder;
+  position: absolute;
+  top: 0;
+  left: 0;
+}
+.myself{
+  position: absolute;
+  top: 10px;
+  right: 0;
+  font-family: 'Hubballi', cursive;
+  color: #FF1818;
+  margin-top: 0;
+  font-size: 70px;
+}
+.myself:hover{
+  color: black;
+}
+.top{
+  height: 130px;
+  padding-top: 0;
+}
+hr{
+  border-style:none ;
+  border-top-style: solid;
+  color: black;
+  width: 100%;
+  border-width: 10px;
+  margin-top: 0;
+  border-left: 0;
+}
+.we{
+  height: 130px;
+}
